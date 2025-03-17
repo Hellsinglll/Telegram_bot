@@ -1,0 +1,9 @@
+python-telegram-bot
+requests
+yt-dlp
+pytube
+pillow
+googletrans==4.0.0-rc1
+SpeechRecognition
+gTTS
+sqlite3

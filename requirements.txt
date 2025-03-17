@@ -1,0 +1,12 @@
+urllib3
+python-telegram-bot
+six
+requests
+six
+yt-dlp
+pytube
+pillow
+googletrans
+SpeechRecognition
+gtts
+flask
